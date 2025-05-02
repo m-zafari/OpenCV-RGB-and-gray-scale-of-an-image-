@@ -1,1 +1,1 @@
-This program separates the red, green, and blue channels of the input image and generates red, green, blue, and gray images using the OpenCV library.
+Developed a Python script utilizing OpenCV to convert images between RGB and grayscale color spaces. The project demonstrates reading an image, converting it to grayscale using cv2.cvtColor() with the COLOR_BGR2GRAY flag, and displaying both the original and converted images. 
